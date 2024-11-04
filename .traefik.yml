@@ -2,7 +2,7 @@ displayName: Maintenance Page
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/TRIMM/traefik-maintenance
+import: github.com/vothanhdoan3112/traefik-maintenance
 
 summary: 'Maintenance Page'
 
